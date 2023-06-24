@@ -10,5 +10,5 @@ Developed with Kotlin and Firebase
 
 <p align ="center"> 
 <img style="float: center"  alt="drawing" src="girl.gif"  width="450px" height=450px">
-  ![image](https://user-images.githubusercontent.com/95935466/197378051-05795628-4bd7-48fa-85c9-40851e068a1f.png)
+![image](https://drive.google.com/drive/folders/1NGSaTefJzrpNOuJbZGqtSKc1EmdrCIFa)
 </p>
