@@ -10,6 +10,5 @@ Developed with Kotlin and Firebase
 
 <p align ="center"> 
 <img style="float: center"  alt="drawing" src="Screen.png" width="45%" height="50%" >
-<\br>
 <img style="float: center"  alt="drawing" src="Register.png"  width="45%" height="50%">
 </p>
