@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FarmLink</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Feedback_Submission">Feedback Submission</string>
+    <string name="Feedback_Descriiption">Please submit your reviews and complaints here, our team will reach you through email soon.</string>
+    <string name="Submit_Feedback">Submit Feedback</string>
+    <string name="past_feedbacks">🌟 My Feedbacks 🌟</string>
+    <string name="deals">The Best Deals Today</string>
+    <string name="Welcome">Welcome </string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="editFullName">Full Name</string>
+    <string name="editAddress1">Address Line 1</string>
+    <string name="editAddress2">Address Line 2</string>
+    <string name="editCity">City</string>
+    <string name="editDistrict">District</string>
+    <string name="editPhone">Phone</string>
+    <string name="tvAddress">Addresses</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnSave">Save</string>
+    <string name="tvBilling">Billing</string>
+    <string name="tvPayMethod">Payment Method</string>
+    <string name="tvPayText">Only Cash On Delivery Available</string>
+    <string name="tvShippingAddress">Shipping Address</string>
+    <string name="tvAddressId">Address ID</string>
+    <string name="tvFullName">Full Name</string>
+    <string name="tvAddress1">Address Line 1</string>
+    <string name="tvAddress2">Address Line 2</string>
+    <string name="tvCity">City</string>
+    <string name="tvDistrict">District</string>
+    <string name="tvPhone">Phone Number</string>
+    <string name="btnUpdate">Update</string>
+    <string name="tvAddressDetails">Address Details</string>
+    <string name="tvCart">My Cart</string>
+    <string name="btnOrder">PLACE ORDER</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="btnHome">Go Home</string>
+</resources>
