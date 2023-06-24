@@ -9,6 +9,6 @@ nation's economic revival.
 Developed with Kotlin and Firebase
 
 <p align ="center"> 
-<img style="float: center"  alt="drawing" src="Screen.png" width="50%" height="50%" >
-<img style="float: center"  alt="drawing" src="Register.png"  width="50%" height="50%">
+<img style="float: center"  alt="drawing" src="Screen.png" width="40%" height="50%" >
+<img style="float: center"  alt="drawing" src="Register.png"  width="40%" height="50%">
 </p>
