@@ -9,6 +9,6 @@ nation's economic revival.
 Developed with Kotlin and Firebase
 
 <p align ="center"> 
-<!-- <img style="float: center"  alt="drawing" src="girl.gif"  width="450px" height=450px"> -->
-![image](https://github.com/IT21269134/FarmLink-Mobile-application/blob/main/Screenshot%202023-03-18%20113442.png)
+<img style="float: center"  alt="drawing" src="Screen.png"  >
+
 </p>
